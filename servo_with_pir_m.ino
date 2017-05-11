@@ -1,5 +1,5 @@
 /*
- * Project Title: Servo Control With Arduino and PIR
+ * Project_Title: Robotic Hand Control
  * Author: M.S.U. Faisal
  * Date  : 09.05.17
  */
